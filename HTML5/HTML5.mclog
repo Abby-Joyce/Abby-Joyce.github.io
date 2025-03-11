@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2024 r2 Generated HTML5.fltar" Date="2025-03-10T23:20:19.8818031-04:00">
+    <Messages>Compiling target HTML5...
+Removing previously generated content...
+Build failed: Access to the path 'C:\Users\acjoyce\OneDrive - University of Massachusetts\Documents\My Projects\Midterm Project\Output\acjoyce\Temporary\HTML5\' is denied.
+Saving log to "C:\Users\acjoyce\OneDrive - University of Massachusetts\Documents\My Projects\Midterm Project\Output\acjoyce\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="Project\Targets\HTML5.fltar" Message="Build failed: Access to the path 'C:\Users\acjoyce\OneDrive - University of Massachusetts\Documents\My Projects\Midterm Project\Output\acjoyce\Temporary\HTML5\' is denied.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10086" />
+    </Errors>
+</MadCapLog>
